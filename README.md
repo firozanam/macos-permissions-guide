@@ -2,6 +2,8 @@
 
 This is a single-page interactive web application designed to help macOS users understand and correctly apply `chown` and `chmod` commands to resolve file and directory privilege issues. It aims to demystify Unix-like permissions through visual interaction and provide practical command generation tools.
 
+[Live Demo](https://firozanam.github.io/macos-permissions-guide/)
+
 ## Features
 
 - **Interactive Permissions Explorer:**
